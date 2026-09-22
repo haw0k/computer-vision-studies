@@ -1,0 +1,28 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# models
+*.onnx
+*.pt
+*.pth
+*.tar
+*.weights
+
+datasets/
+data/raw/
+images/
+labels/
+
+*.jpg
+*.mp4
+*.ts
+
+.env
+.DS_Store
+Thumbs.db
+opencode.json
+
+# assets/ — сюди кладемо НЕвеликі ілюстрації для README, їх комітимо явно
+!assets/**

@@ -1,0 +1,9 @@
+datasets
+numpy
+matplotlib
+opencv-python
+jupyter
+ultralytics
+onnxruntime-gpu
+roboflow
+scikit-learn
