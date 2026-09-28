@@ -30,7 +30,7 @@
 
 ## Список досліджень
 
-| № | Тема | Дослідження | Google Collab |
+| № | Тема | Дослідження | Google Colab |
 |---|------|--------|--------|
 | 1 | Класичний Computer Vison: Що бачить комп'ютер | [study_01](study-01/study-01.ipynb) | [![Відкрити в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13LPPAJ2vU8VvW5FpWcJxT2gVv-6BzIIX) |
 | 2 | Фільтрація, краї та контури | [study_02](study-02/study-02.ipynb) | [![Відкрити в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vLjPXvFVcy5KAH2KFN6r5oTbILfvrAvz) |
