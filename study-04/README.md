@@ -27,4 +27,4 @@
 [study-04.ipynb](https://nbviewer.org/github/haw0k/computer-vision-studies/blob/main/study-04/study-04.ipynb)
 
 ## Google Colab
-[Посилання на Colab](https://colab.research.google.com/drive/1Vo6InuU6VEsw2Tk5P4dZicQBxwlmH9Px)
+[![Відкрити в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vo6InuU6VEsw2Tk5P4dZicQBxwlmH9Px)

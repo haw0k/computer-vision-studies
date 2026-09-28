@@ -16,4 +16,4 @@
 [study-05.ipynb](study-05.ipynb)
 
 ## Google Colab
-[Посилання на Colab](https://colab.research.google.com/drive/10FcOQHj073sBR3w1H31MoqXYEHvG4dUd)
+[![Відкрити в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10FcOQHj073sBR3w1H31MoqXYEHvG4dUd)

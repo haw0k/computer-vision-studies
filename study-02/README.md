@@ -21,4 +21,4 @@
 [study-02.ipynb](study-02.ipynb)
 
 ## Google Colab
-[Посилання на Colab](https://colab.research.google.com/drive/1vLjPXvFVcy5KAH2KFN6r5oTbILfvrAvz)
+[![Відкрити в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vLjPXvFVcy5KAH2KFN6r5oTbILfvrAvz)
