@@ -35,6 +35,6 @@
 | 1 | Класичний Computer Vison: Що бачить комп'ютер | [study_01](study-01/study-01.ipynb) | [Link](https://colab.research.google.com/drive/13LPPAJ2vU8VvW5FpWcJxT2gVv-6BzIIX) |
 | 2 | Фільтрація, краї та контури | [study_02](study-02/study-02.ipynb) | [Link](https://colab.research.google.com/drive/1vLjPXvFVcy5KAH2KFN6r5oTbILfvrAvz) |
 | 3 | Нейромережі та transfer learning | [study_03](study-03/study-03.ipynb) | [Link](https://colab.research.google.com/drive/10EJSbWlFyd_rayHOKH9R9cT-k1b8O8Yd) |
-| 4 | Детекція об'єктів з YOLO26 | [study_04](study-04/study-04.ipynb) | [Link](https://colab.research.google.com/drive/1Vo6InuU6VEsw2Tk5P4dZicQBxwlmH9Px) |
+| 4 | Детекція об'єктів з YOLO26 | [study_04](https://nbviewer.org/github/haw0k/computer-vision-studies/blob/main/study-04/study-04.ipynb) | [Link](https://colab.research.google.com/drive/1Vo6InuU6VEsw2Tk5P4dZicQBxwlmH9Px) |
 | 5 | Fine-tuning YOLO26 на власних даних | [study_05](study-05/study-05.ipynb) | [Link](https://colab.research.google.com/drive/10FcOQHj073sBR3w1H31MoqXYEHvG4dUd) |
 | 6 | Сегментація, кейси та дорожня карта | [study_06](study-06/study-06.ipynb) | [Link](https://colab.research.google.com/drive/1JmGAJtReWCV7q_PmjnTrxo9VeYJvDfHV) |
